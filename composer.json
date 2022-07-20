@@ -7,5 +7,7 @@
             "email": "graciadan@rambler.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.16"
+    }
 }
