@@ -1,6 +1,11 @@
 {
     "name": "vladimiru/hexlet-php",
     "description": "example",
+    "autoload": {
+        "files": [
+             "src/Runner.php"
+         ]
+     },
     "authors": [
         {
             "name": "Vladimir Ugarov",
